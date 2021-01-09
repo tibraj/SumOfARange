@@ -17,3 +17,7 @@ function sum(array) {
     }
     return total;
 }
+
+function sumOfRange() {
+    console.log(sum(range(1, 30)));
+}
